@@ -22,32 +22,32 @@
 //===================================DB==========================================
 //=================================mysql=========================================
 		 $db_data = array(
-		  'name' => 'l17632_data', //newproject_data
-		  'user' => 'l17632_dbuser',
+		  'name' => 'data', //newproject_data
+		  'user' => 'dbuser',
 		  'pass' => 'pass',
 		  'host' => 'localhost'
 		 );
 		 $db_game = array(
-          'name' => 'l17632_db', //newproject_db
-		  'user' => 'l17632_dbuser',
+          'name' => 'db', //newproject_db
+		  'user' => 'dbuser',
 		  'pass' => 'pass',
 		  'host' => 'localhost'
 		 );
 		 $db_auth = array(
-		  'name' => 'l17632_auth', //newproject_db_auth
-		  'user' => 'l17632_dbuser',
+		  'name' => 'auth', //newproject_db_auth
+		  'user' => 'dbuser',
 		  'pass' => 'pass',
 		  'host' => 'localhost'
 		 );
 		 $db_user = array(
-		  'name' => 'l17632_db_user', //newproject_db_user
-		  'user' => 'l17632_dbuser',
+		  'name' => 'db_user', //newproject_db_user
+		  'user' => 'dbuser',
 		  'pass' => 'pass',
 		  'host' => 'localhost'
 		 );
 		 $db_post = array(
-		  'name' => 'l17632_post', //newproject_post
-		  'user' => 'l17632_dbuser',
+		  'name' => 'post', //newproject_post
+		  'user' => 'dbuser',
 		  'pass' => 'pass',
 		  'host' => 'localhost'
 		 );
