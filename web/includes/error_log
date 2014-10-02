@@ -1,0 +1,13 @@
+[17-Aug-2014 16:19:36 UTC] PHP Warning:  include(core/class/json.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/l17632/public_html/LC_test/includes/function.php on line 3
+[17-Aug-2014 16:19:36 UTC] PHP Warning:  include(core/class/json.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/l17632/public_html/LC_test/includes/function.php on line 3
+[17-Aug-2014 16:19:36 UTC] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'core/class/json.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/l17632/public_html/LC_test/includes/function.php on line 3
+[23-Aug-2014 00:14:21 UTC] PHP Parse error:  syntax error, unexpected $end in /home/l17632/public_html/test/includes/f.acc.register.php on line 48
+[23-Aug-2014 00:14:26 UTC] PHP Parse error:  syntax error, unexpected $end in /home/l17632/public_html/test/includes/f.acc.register.php on line 48
+[23-Aug-2014 00:14:30 UTC] PHP Parse error:  syntax error, unexpected $end in /home/l17632/public_html/test/includes/f.acc.register.php on line 48
+[23-Aug-2014 00:15:17 UTC] PHP Parse error:  syntax error, unexpected $end in /home/l17632/public_html/test/includes/f.acc.register.php on line 48
+[23-Aug-2014 00:15:39 UTC] PHP Parse error:  syntax error, unexpected $end in /home/l17632/public_html/test/includes/f.acc.register.php on line 48
+[23-Aug-2014 00:16:01 UTC] PHP Parse error:  syntax error, unexpected $end in /home/l17632/public_html/test/includes/f.acc.register.php on line 48
+[23-Aug-2014 00:16:07 UTC] PHP Parse error:  syntax error, unexpected $end in /home/l17632/public_html/test/includes/f.acc.register.php on line 48
+[23-Aug-2014 00:16:48 UTC] PHP Parse error:  syntax error, unexpected $end in /home/l17632/public_html/test/includes/f.acc.register.php on line 48
+[23-Aug-2014 00:19:05 UTC] PHP Parse error:  syntax error, unexpected $end in /home/l17632/public_html/test/includes/f.acc.register.php on line 48
+[24-Aug-2014 18:31:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/l17632/public_html/test/includes/f.acc.register.php on line 17
